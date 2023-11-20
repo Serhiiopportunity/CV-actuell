@@ -1,0 +1,74 @@
+body {
+   display: flex;
+   gap: 80px;
+}
+.no-bullets1 {
+   list-style-type: none;
+   padding-top: 15px;
+   padding-right: 40px;
+}
+.kontakt {
+   background-color:#364156;
+   padding-top: 50px;
+   padding-left: 40px;
+   padding-bottom: 30px;
+  }
+  .skills {
+   padding-left: 40px;
+   padding-top: 15px;
+   padding-right: 40px;
+  }
+  aside {
+   background-color: #212D40;
+   color: white;
+   width: fixed 470px;
+   }
+   .fixed-width {
+      width: 470px;
+   }
+   h3 {
+      font-family: Inter;
+      font-size: 18px;
+   }
+   .spacex {
+   font-family: Inter;
+   font-size: 18px;
+   }
+   aside h2 {
+      font-family: Inter;
+      font-size: 20px;
+   }
+   main {
+      width: 70%;
+   }
+   main h1  { 
+      font-family: Inter;
+      font-size: 96px;
+   }
+   main h2 {
+      font-family: Inter;
+      font-size: 24px;
+   }
+   #Arbeitserfahrung {
+      border: 1px solid;
+      background-color: #364156;
+      color: white;
+      padding: 20px;
+      border-style: solid;
+   
+   }
+   .no-bullets {
+      list-style-type: none;
+   }
+   .myfoto {
+      width: 100%;
+      height: auto;
+   }
+   .flex-container {
+      display: flex;
+      justify-content: space-between;
+   }
+   h4 {
+      font-family: Inter;
+      font-size: 12px;
+   }
